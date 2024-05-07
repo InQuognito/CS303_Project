@@ -1,7 +1,7 @@
 # CS303 Project
-**Project: 1A (Infix Calculator)**
+**Project:** 1A (Infix Calculator)
 
-**Team Members: Patrick Cotter**
+**Team Members:** Patrick Cotter
 
 ### Assumptions // Known Issues
 - The infix operation of nested unary operators (ex. ++++2) does not work. This was the one part of the project that stumped me.
