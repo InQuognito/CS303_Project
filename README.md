@@ -1,5 +1,6 @@
 # CS303 Project
 **Project: 1A (Infix Calculator)**
+
 **Team Members: Patrick Cotter**
 
 ### Assumptions // Known Issues
